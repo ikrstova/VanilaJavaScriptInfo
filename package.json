@@ -1,0 +1,30 @@
+{
+  "name": "vanila-js-info",
+  "version": "1.0.0",
+  "description": "Contains examples for key concepts about javascript programming language as a whole, including also nodejs",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikrstova/VanilaJavaScriptInfo.git"
+  },
+  "keywords": [
+    "great",
+    "all-for-js"
+  ],
+  "author": "Ivana Stojcheva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikrstova/VanilaJavaScriptInfo/issues"
+  },
+  "homepage": "https://github.com/ikrstova/VanilaJavaScriptInfo#readme"
+}

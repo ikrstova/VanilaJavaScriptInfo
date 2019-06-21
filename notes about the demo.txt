@@ -1,0 +1,14 @@
+﻿the demo notes:
+
+- It is intermediate sized we app with interesting activities for an adventist from one side, and the churches/group/projects holders from the other side, personalized and well structured right? 
+- I am interested did You develop it only by yourself, or do you have a team behind? Are you the product owner, or the client, or both of them, or only the developer/development company?
+- I gess if we feet, I am going to work on site development?
+- Is it only for Australian as end users?
+- Do you must be an adventist by religion, or you can be interested still? The question is related for: the users of the site,     and for the developers of the site?
+- For the demo (future menu):
+- In skills below it is showing contents from interests module. Gess it is a bug. I gess there can be content related to skills     like yours, or skills of some people that you follow, are are connected with, or smth else.
+- Design ok, but colors can be more fresh, young, like colors from the nature. Also i thing more inprovements can be done in   the design structure, it feels a little borring.
+- There other smaller bugs also.
+- The part volunteer, i have noteced that the volunteering is most placed on the islands around and between Australia and       Indonesia, so i gess from me will not be expected to help there, as the fact that here in North Macedonia we need a lot   lot help and only God can help us, so if He ask me to help it will be very wisely to help here.
+- I really have limited ideas about what other menus (organizer, boards, cloud, tracker, rooms) are really for. I gess they are some integrations with other apps and serers, but only guessing.
+
